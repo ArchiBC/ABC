@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC_Rhino", "ABC_Rhino\ABC_Rhino.csproj", "{8E7B5A97-20A7-44D4-A904-334011B0FAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7B5A97-20A7-44D4-A904-334011B0FAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7B5A97-20A7-44D4-A904-334011B0FAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7B5A97-20A7-44D4-A904-334011B0FAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7B5A97-20A7-44D4-A904-334011B0FAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
